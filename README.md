@@ -27,7 +27,6 @@ This project allows users to **add, view, remove items**, **checkout**, and even
 ## 🛠 Technologies Used
 
 - **C#**  
-- **.NET 6 (or your installed version)**  
 - Console Application  
 
 ---
@@ -36,4 +35,4 @@ This project allows users to **add, view, remove items**, **checkout**, and even
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/ConsoleShoppingCart.git
+    https://github.com/youssef-sameh4/Shopping_Cart_ConsoleApp.git
